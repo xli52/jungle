@@ -198,7 +198,7 @@ cat3.products.create!({
   As a defense mechanism the Void Fennel has a thick, wooden stem.
   They rely on water currents to carry their seeds away to reproduce. Once pollinated, they grow fairly large, inedible fruits.",
   image: open_asset('plante_11.jpg'),
-  quantity: 2,
+  quantity: 0,
   price: 87.65
 })
 
