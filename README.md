@@ -3,7 +3,7 @@
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
 ## Final Product
-!["Screenshot of home page"](https://github.com/michaelli52/scheduler/blob/master/public/docs/app_view.png?raw=true)
+!["Screenshot of home page"](https://github.com/xli52/jungle/blob/master/home_page_screenshot.png)
 
 ## Setup
 
